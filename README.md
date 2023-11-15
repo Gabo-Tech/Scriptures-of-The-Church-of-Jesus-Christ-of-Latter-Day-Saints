@@ -1,6 +1,3 @@
-
----
-
 # Church of Jesus Christ Scriptures App
 
 This repository contains the source code for the "Church of Jesus Christ Scriptures App," a desktop application developed using Tauri and Svelte. This app provides a convenient and efficient way to access and read the scriptures from the website of The Church of Jesus Christ of Latter-day Saints.
