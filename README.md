@@ -28,7 +28,7 @@ A step-by-step series of examples that tell you how to get a development environ
    ```
 2. Navigate to the project directory:
    ```sh
-   cd church-of-jesus-christ-scriptures-app
+   cd Scriptures-of-The-Church-of-Jesus-Christ-of-Latter-Day-Saints
    ```
 3. Install NPM packages:
    ```sh
